@@ -14,6 +14,7 @@ h1, h2{
 }
 
 .kepek{
+  float: right;
   width: 333px;
   margin-left: 25px;
   margin-bottom: 25px;
