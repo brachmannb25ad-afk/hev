@@ -3,7 +3,9 @@ body{
   background-position: left;
   padding: 10px 40px 10px 110px;
 background-image:url(sin.png) ;
+text-align: justify;
 }
+style
 
 
 p:first-letter{
